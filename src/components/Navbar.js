@@ -3,9 +3,9 @@ import React from "react";
 const Navbar = () => {
   return (
     <div className="navbar">
-      Accommodations in City
+      <span style={{ marginLeft: "7px" }}>Accommodations in City</span>
     </div>
-  ); 
+  );
 };
 
 export default Navbar;
