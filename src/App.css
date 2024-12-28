@@ -50,3 +50,10 @@
   transition: 0.5s;
   cursor: pointer;
 }
+
+/* Paginate.js */
+.paginate {
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+}
